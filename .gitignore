@@ -1,6 +1,6 @@
 *.bk
 yaft
 yaftx
-glyph.h
+#glyph.h
 mkfont
 mkfont_bdf
